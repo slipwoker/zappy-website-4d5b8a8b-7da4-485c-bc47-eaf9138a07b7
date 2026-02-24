@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מספרה מקצועית עם סטייל ייחודי. תספורות גברים, עיצוב זקן וטיפוח מושלם. הזמן תור עכשיו וחווה את החוויה של Johnny barber shop!
+
+### שירותים
+https://example.com/services
+תספורות קלאסיות ומודרניות, גילוח מסורתי, עיצוב זקן ושפם, טיפולי פנים לגברים ועוד. גלה את מגוון השירותים המלא שלנו במספרה.
+
+### אודות
+https://example.com/about
+למדו להכיר את הצוות המקצועי שלנו, הפילוסופיה שמובילה אותנו והמסורת של שירות ברמה הגבוהה ביותר. זה יותר מתספורת, זו חוויה.
+
+### צור קשר
+https://example.com/contact
+מוכנים לשדרג את הלוק? צרו קשר לתיאום פגישה, בואו לבקר במספרה או התקשרו אלינו. נשמח לארח אתכם ולתת לכם את הטיפול המושלם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
